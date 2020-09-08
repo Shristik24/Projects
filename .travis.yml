@@ -1,0 +1,12 @@
+language: python
+python:
+  - "3.5"
+# command to install dependencies
+install:
+  - pip install mysql-connector-python
+  - pip install difflib
+
+
+
+script:
+  - echo "kjdnkbdhjbjf"
