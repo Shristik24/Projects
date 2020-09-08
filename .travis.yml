@@ -5,8 +5,5 @@ python:
 install:
   - pip install mysql-connector-python
  
-
-
-
 script:
-  - python3 English_Dictionary_01.py Sample.txt
+  - python English_Dictionary_01.py Sample.txt
