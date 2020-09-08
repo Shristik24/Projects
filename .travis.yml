@@ -4,9 +4,9 @@ python:
 # command to install dependencies
 install:
   - pip install mysql-connector-python
-  - pip install difflib
+ 
 
 
 
 script:
-  - echo "kjdnkbdhjbjf"
+  - python3 English_Dictionary_01.py Sample.txt
