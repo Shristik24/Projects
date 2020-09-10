@@ -8,6 +8,6 @@ install:
 script:
   - cd English_Dictionary
   - python English_Dictionary_01.py<Sample.txt
-  - cd ..
-  #- cd ../Volcano
-  #- python Webmap_01.py
+  #- cd ..
+  - cd ../Volcano
+  - python Webmap_01.py
