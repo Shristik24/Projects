@@ -4,6 +4,8 @@ python:
 # command to install dependencies
 install:
   - pip install mysql-connector-python
+  - pip install folium
+  - pip install pandas
  
 script:
   - cd English_Dictionary
